@@ -1,0 +1,1 @@
+This project includes open source code, and modified sources of open source code. That was developed and/or modified by On-Line Strategies, Inc.
